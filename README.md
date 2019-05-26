@@ -4,3 +4,6 @@ Data Visualization and Analysis using R
 The R file includes code for basic exploratory analysis of any data of interest.
 Includes packages ggplot, velib, dplyr, readODS, lubridate.
 Showcases how to visualise data with different conditions like filtering, subsetting etc.
+
+File - Data Visualisation R
+Using R for data visualisation and use of SQLDF package
